@@ -1,0 +1,14 @@
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\bin\Debug\net8.0\Exercices3_1.exe
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\bin\Debug\net8.0\Exercices3_1.deps.json
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\bin\Debug\net8.0\Exercices3_1.runtimeconfig.json
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\bin\Debug\net8.0\Exercices3_1.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\bin\Debug\net8.0\Exercices3_1.pdb
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.AssemblyInfoInputs.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.AssemblyInfo.cs
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.csproj.CoreCompileInputs.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\refint\Exercices3_1.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.pdb
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\Exercices3_1.genruntimeconfig.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices\Exercices3\Exercices3\Exercices3_1\obj\Debug\net8.0\ref\Exercices3_1.dll

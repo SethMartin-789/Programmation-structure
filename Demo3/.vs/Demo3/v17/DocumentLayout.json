@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\psimard\\source\\git\\420-163-CH-Etudiants\\D\u00E9mos\\Demo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65FCDFA-EEF8-48F0-9C75-A3A507088C2E}|\u00C9l\u00E9ments de solution{A65FCDFA-EEF8-48F0-9C75-A3A507088C2E}|C:\\Users\\psimard\\source\\git\\420-163-CH-Etudiants\\D\u00E9mos\\Demo3\\README - Droits d\u0027auteur.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A65FCDFA-EEF8-48F0-9C75-A3A507088C2E}|\u00C9l\u00E9ments de solution{A65FCDFA-EEF8-48F0-9C75-A3A507088C2E}|solutionrelative:README - Droits d\u0027auteur.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README - Droits d\u0027auteur.md",
+              "DocumentMoniker": "C:\\Users\\psimard\\source\\git\\420-163-CH-Etudiants\\D\u00E9mos\\Demo3\\README - Droits d\u0027auteur.md",
+              "RelativeDocumentMoniker": "README - Droits d\u0027auteur.md",
+              "ToolTip": "C:\\Users\\psimard\\source\\git\\420-163-CH-Etudiants\\D\u00E9mos\\Demo3\\README - Droits d\u0027auteur.md",
+              "RelativeToolTip": "README - Droits d\u0027auteur.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-14T18:07:11.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

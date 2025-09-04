@@ -1,0 +1,14 @@
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\bin\Debug\net8.0\Exercice2_2.exe
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\bin\Debug\net8.0\Exercice2_2.deps.json
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\bin\Debug\net8.0\Exercice2_2.runtimeconfig.json
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\bin\Debug\net8.0\Exercice2_2.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\bin\Debug\net8.0\Exercice2_2.pdb
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.AssemblyInfoInputs.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.AssemblyInfo.cs
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.csproj.CoreCompileInputs.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\refint\Exercice2_2.dll
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.pdb
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\Exercice2_2.genruntimeconfig.cache
+C:\Users\2533376\Desktop\Programmation structurée\Exercices1\Exercices2\Exercice2_2\obj\Debug\net8.0\ref\Exercice2_2.dll
