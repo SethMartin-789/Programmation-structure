@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj": {}
+    "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj": {
+    "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj",
+        "projectUniqueName": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj",
         "projectName": "Exercice3_2",
-        "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj",
+        "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\Exercice3_2.csproj",
         "packagesPath": "C:\\Users\\2533376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\obj\\",
+        "outputPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj": {
-                "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj"
+              "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj": {
+                "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj": {
+    "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj",
+        "projectUniqueName": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj",
         "projectName": "Exercice3_1",
-        "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj",
+        "projectPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Exercice3_1.csproj",
         "packagesPath": "C:\\Users\\2533376\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2533376\\Desktop\\Programmation structurée\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\obj\\",
+        "outputPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
