@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\",
+  "WorkspaceRootPath": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A27313-978B-4105-A07C-B490206016D2}|Exercice3_6\\Exercice3_6.csproj|c:\\users\\2533376\\desktop\\programmation-structure\\exercices\\exercices3\\exercices3\\exercice3_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A27313-978B-4105-A07C-B490206016D2}|Exercice3_6\\Exercice3_6.csproj|solutionrelative:exercice3_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C8872B-6110-418A-A04A-1ACBA66697E0}|Exercices3_1\\Exercice3_1.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices3\\exercices3\\exercices3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C8872B-6110-418A-A04A-1ACBA66697E0}|Exercices3_1\\Exercice3_1.csproj|solutionrelative:exercices3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_6\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice3_6\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercice3_6\\Program.cs",
-              "RelativeToolTip": "Exercice3_6\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercices3_1\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices3\\Exercices3\\Exercices3_1\\Program.cs",
+              "RelativeToolTip": "Exercices3_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:49:05.201Z",
+              "WhenOpened": "2025-09-05T15:40:54.915Z",
               "EditorCaption": ""
             }
           ]
