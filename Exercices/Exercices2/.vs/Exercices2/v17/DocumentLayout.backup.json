@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\",
+  "WorkspaceRootPath": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E2A519F-D0DF-423C-ABDD-C7098BAE81D9}|Exercice2_6\\Exercice2_6.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E2A519F-D0DF-423C-ABDD-C7098BAE81D9}|Exercice2_6\\Exercice2_6.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2A519F-D0DF-423C-ABDD-C7098BAE81D9}|Exercice2_6\\Exercice2_6.csproj|solutionrelative:exercice2_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE2EC379-1498-4156-849F-E7CC44169D56}|Exercice2_5\\Exercice2_5.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE2EC379-1498-4156-849F-E7CC44169D56}|Exercice2_5\\Exercice2_5.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE2EC379-1498-4156-849F-E7CC44169D56}|Exercice2_5\\Exercice2_5.csproj|solutionrelative:exercice2_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5E6EF-B07E-4910-9160-60719478B80D}|Exercice2_4\\Exercice2_4.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3B5E6EF-B07E-4910-9160-60719478B80D}|Exercice2_4\\Exercice2_4.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3B5E6EF-B07E-4910-9160-60719478B80D}|Exercice2_4\\Exercice2_4.csproj|solutionrelative:exercice2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B96A4B29-7BA8-4085-ACC0-EB5A74FD5A14}|Exercice2_1\\Exercice2_1.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B96A4B29-7BA8-4085-ACC0-EB5A74FD5A14}|Exercice2_1\\Exercice2_1.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B96A4B29-7BA8-4085-ACC0-EB5A74FD5A14}|Exercice2_1\\Exercice2_1.csproj|solutionrelative:exercice2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0920BAEA-EB2F-4A9E-B14D-AE3E172BAFE0}|Exercice2_2\\Exercice2_2.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0920BAEA-EB2F-4A9E-B14D-AE3E172BAFE0}|Exercice2_2\\Exercice2_2.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0920BAEA-EB2F-4A9E-B14D-AE3E172BAFE0}|Exercice2_2\\Exercice2_2.csproj|solutionrelative:exercice2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE129D09-2B42-4AE7-9B73-38632D02EFEF}|Exercice2_3\\Exercice2_3.csproj|c:\\users\\2533376\\desktop\\programmation structur\u00E9e\\exercices\\exercices2\\exercice2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE129D09-2B42-4AE7-9B73-38632D02EFEF}|Exercice2_3\\Exercice2_3.csproj|c:\\users\\2533376\\documents\\github\\programmation-structure\\exercices\\exercices2\\exercice2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE129D09-2B42-4AE7-9B73-38632D02EFEF}|Exercice2_3\\Exercice2_3.csproj|solutionrelative:exercice2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_6\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_6\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_6\\Program.cs*",
-              "RelativeToolTip": "Exercice2_6\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_6\\Program.cs",
+              "RelativeToolTip": "Exercice2_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T14:02:52.132Z",
               "EditorCaption": ""
@@ -53,66 +53,61 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_5\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_5\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_5\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_5\\Program.cs",
               "RelativeToolTip": "Exercice2_5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T13:55:11.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T13:55:11.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_4\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_4\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_4\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_4\\Program.cs",
               "RelativeToolTip": "Exercice2_4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T18:16:38.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T18:16:38.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_3\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_3\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_3\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_3\\Program.cs",
               "RelativeToolTip": "Exercice2_3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:33:22.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:33:22.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_2\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_2\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_2\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_2\\Program.cs",
               "RelativeToolTip": "Exercice2_2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:27:49.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:27:49.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_1\\Program.cs",
               "RelativeDocumentMoniker": "Exercice2_1\\Program.cs",
-              "ToolTip": "C:\\Users\\2533376\\Desktop\\Programmation structur\u00E9e\\Exercices\\Exercices2\\Exercice2_1\\Program.cs",
+              "ToolTip": "C:\\Users\\2533376\\Documents\\GitHub\\Programmation-structure\\Exercices\\Exercices2\\Exercice2_1\\Program.cs",
               "RelativeToolTip": "Exercice2_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T17:25:34.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:25:34.625Z"
             }
           ]
         }
